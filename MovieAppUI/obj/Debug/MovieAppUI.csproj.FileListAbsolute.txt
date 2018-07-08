@@ -1,0 +1,10 @@
+I:\SHERIDAN_COLLEGE\Semester 4\C# - Web services\week6\A2\Assignment2\MovieAppUI\bin\Debug\MovieAppUI.exe.config
+I:\SHERIDAN_COLLEGE\Semester 4\C# - Web services\week6\A2\Assignment2\MovieAppUI\bin\Debug\MovieAppUI.exe
+I:\SHERIDAN_COLLEGE\Semester 4\C# - Web services\week6\A2\Assignment2\MovieAppUI\bin\Debug\MovieAppUI.pdb
+I:\SHERIDAN_COLLEGE\Semester 4\C# - Web services\week6\A2\Assignment2\MovieAppUI\obj\Debug\MovieAppUI.csprojAssemblyReference.cache
+I:\SHERIDAN_COLLEGE\Semester 4\C# - Web services\week6\A2\Assignment2\MovieAppUI\obj\Debug\MovieAppUI.movieReviewForm.resources
+I:\SHERIDAN_COLLEGE\Semester 4\C# - Web services\week6\A2\Assignment2\MovieAppUI\obj\Debug\MovieAppUI.Properties.Resources.resources
+I:\SHERIDAN_COLLEGE\Semester 4\C# - Web services\week6\A2\Assignment2\MovieAppUI\obj\Debug\MovieAppUI.csproj.GenerateResource.cache
+I:\SHERIDAN_COLLEGE\Semester 4\C# - Web services\week6\A2\Assignment2\MovieAppUI\obj\Debug\MovieAppUI.csproj.CoreCompileInputs.cache
+I:\SHERIDAN_COLLEGE\Semester 4\C# - Web services\week6\A2\Assignment2\MovieAppUI\obj\Debug\MovieAppUI.exe
+I:\SHERIDAN_COLLEGE\Semester 4\C# - Web services\week6\A2\Assignment2\MovieAppUI\obj\Debug\MovieAppUI.pdb
